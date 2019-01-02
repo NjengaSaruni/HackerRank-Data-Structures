@@ -1,4 +1,4 @@
 # IDE things
-idea/
+.idea/
 
 *.pyc
